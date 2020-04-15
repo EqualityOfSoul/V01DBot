@@ -15,7 +15,7 @@
     "discord.js": "^11.4.2",
     "enmap": "^4.3.2",
     "fluent-ffmpeg": "^2.1.2",
-    "fortnitetracker-7days-stats": "^3.1.1",
+    "fortnitetracker-7days-stats": "^3.3.1",
     "fs": "0.0.1-security",
     "hsl-to-hex": "^1.0.0",
     "request": "^2.87.0",
