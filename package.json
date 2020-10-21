@@ -12,7 +12,7 @@
     "better-sqlite-pool": "^0.1.2",
     "canvas": "^1.6.13",
     "cheerio": "^1.0.0-rc.2",
-    "discord.js": "^11.4.2",
+    "discord.js": "^12.4.0",
     "enmap": "^4.3.2",
     "fluent-ffmpeg": "^2.1.2",
     "fortnitetracker-7days-stats": "^3.1.1",
